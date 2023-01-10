@@ -1,7 +1,7 @@
 # yolov7-pose-onnx
 Infer yolov7-pose for images and videos with onnx model.
 
-![TEST VIDEO](./result.mp4)
+![TEST VIDEO](result.gif)
 
 ## 1.pip install
 ```bash
