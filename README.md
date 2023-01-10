@@ -1,6 +1,8 @@
 # yolov7-pose-onnx
 Infer yolov7-pose for images and videos with onnx model.
 
+![TEST VIDEO](./result.mp4)
+
 ## 1.pip install
 ```bash
 pip install -U pip && pip install opencv-python onnxruntime
